@@ -1,0 +1,25 @@
+.cuadro {
+    width: 95%;
+    height: 8rem;
+    background-color: beige;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.btn_x {
+    width: 50%;
+    height: 2rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+
+}
+
+.btn_slash {
+    width: 50%;
+    height: 2rem;
+    background-color: blueviolet;
+    border: 1px solid black;
+
+}
